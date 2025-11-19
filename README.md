@@ -1,5 +1,5 @@
 # prml-zh
-**《Pattern Recognition and Machine Learning（PRML）》** 原书下载地址见：[PRML Book](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+**《Pattern Recognition and Machine Learning（PRML）》** 原书下载地址见：[PRML](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 > ⚠️ 声明：本仓库 **不是** 官方中文翻译
 > 仅用于学习交流，所有权利归原作者和出版社所有。
 
