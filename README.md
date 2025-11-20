@@ -10,13 +10,6 @@
 本项目源自我在学习《Pattern Recognition and Machine Learning（PRML）》过程中的个人需求。由于本人英文水平有限，在阅读原书时借助 GPT 等工具辅助理解，并将内容整理成中文，以方便复习、推导与进阶学习。
 
 
-此仓库主要用于：
-- 存放整理后的章节内容（中文）
-- 记录学习过程中的推导、理解和思考
-- 编写与书中对应的算法实现与实验代码
-- 归档相关的 PDF 文稿和排版文件
-
-
 ## 进度
 - [x] Chapter 1：Introduction
 - [x] Chapter 2：Probability Distributions
