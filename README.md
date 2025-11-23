@@ -7,7 +7,7 @@
 
 ## 项目说明
 
-本项目源自我在学习《Pattern Recognition and Machine Learning（PRML）》过程中的个人需求。由于本人英文水平有限，在阅读原书时借助 GPT 等工具辅助理解，并将内容整理成中文，以方便复习、推导与进阶学习。
+本项目源自我在学习《Pattern Recognition and Machine Learning（PRML）》过程中的个人需求。由于本人英文水平有限，在阅读原书时借助 GPT 等工具辅助理解，并将内容整理成中文，以方便复习与推导。
 
 
 ## 进度
