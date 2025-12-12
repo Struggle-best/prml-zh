@@ -13,8 +13,8 @@
 ## 进度
 - [x] Chapter 1：Introduction
 - [x] Chapter 2：Probability Distributions
-- [ ] Chapter 3：Linear Models for Regression
-- [ ] Chapter 4：Linear Models for Classification
+- [x] Chapter 3：Linear Models for Regression
+- [x] Chapter 4：Linear Models for Classification
 - [ ] Chapter 5：Neural Networks
 - [ ] Chapter 6：Kernel Methods
 - [ ] Chapter 7：Sparse Kernel Machines
