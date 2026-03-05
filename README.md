@@ -20,10 +20,10 @@
 - [x] Chapter 7：Sparse Kernel Machines
 - [x] Chapter 8：Graphical Models
 - [x] Chapter 9：Mixture Models and EM
-- [ ] Chapter 10：Approximate Inference
-- [ ] Chapter 11：Sampling Methods
-- [ ] Chapter 12：Continuous Latent Variables
-- [ ] Chapter 13：Sequential Data
-- [ ] Chapter 14：Combining Models
+- [x] Chapter 10：Approximate Inference
+- [x] Chapter 11：Sampling Methods
+- [x] Chapter 12：Continuous Latent Variables
+- [x] Chapter 13：Sequential Data
+- [x] Chapter 14：Combining Models
 
 本仓库旨在 *作为个人学习成果的整理与分享* ，希望对同样学习该书的人有所帮助。
